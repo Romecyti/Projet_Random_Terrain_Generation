@@ -15,9 +15,9 @@ En ajout, et pour avoir un rendu plus visuel, nous avons fait un mapping des hau
 ---
 
 ***Image le jour***
-![Image d'illustration](./Image_jour.png "Image d'illustration de jour")
+![Image d'illustration](./Image_jour.PNG "Image d'illustration de jour")
 
 ---
 
 ***Image la nuit***
-![Image d'illustration2](./Image_nuit.png "Image d'illustration de nuit")
+![Image d'illustration2](./Image_nuit.PNG "Image d'illustration de nuit")
